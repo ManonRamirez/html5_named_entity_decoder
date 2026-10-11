@@ -1,6 +1,6 @@
 [project]
 name = "html5-named-entity-decoder"
-version = "0.1.0"
+version = "0.1.1"
 description = "Decodes the complete set of HTML5 named character references, including legacy entities without trailing semicolons."
 requires-python = ">=3.10"
 dependencies = []
